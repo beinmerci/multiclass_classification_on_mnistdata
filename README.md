@@ -1,2 +1,3 @@
-# multiclass_classification_on_mnistdata
-Multiclass Classification for MNIST Data
+# spot check on multiclass classification algorithms using estimator score method 
+
+Data:  MNIST Data
