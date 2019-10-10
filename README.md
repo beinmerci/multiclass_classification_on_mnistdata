@@ -1,6 +1,7 @@
 # spot check on multiclass classification algorithms using estimator score method 
 
 Data:  MNIST Data
+https://www.kaggle.com/c/digit-recognizer/data
 
 
 Problem Type : Identify which algorithms are best suited for current dataset for multiclass classification
